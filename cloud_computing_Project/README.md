@@ -29,7 +29,6 @@ The **Food Manager** is designed to demonstrate fundamental concepts of cloud co
 - **Django 4.x**
 - **PostgreSQL**
 - **Docker & Docker Compose**
-- **Postman (for API testing)**
 
 ---
 
@@ -77,7 +76,7 @@ exit
 
 ---
 
-### Usage
+### Usage(اگر دستور pyhton manage.py migrate اجرا بشه ما می تونیم مراحل زیر را اجرا کنیم)
 1. Test the API using tools like Postman or Curl.
 
 2. Example API requests:
